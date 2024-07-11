@@ -115,4 +115,8 @@ TASK 2.6: Create and display graphs for Yearly Report Statistics.
 Once you have completed the labs and saved all your files locally you will submit your assignment which will be graded by your peers who are also completing this course during the same session.
 
 
+![image](https://github.com/Walid-Alakk/IBM-data-visualization-with-python/assets/66041839/96083d7d-e184-4273-bfa9-e823b557b4d1)
+
+
+
 Good Luck!!
